@@ -7,17 +7,17 @@ To scan the local network and discover open ports using Nmap.
 - Nmap 7.97
 
 ## 🌐 Network Information
-- Local IP: 192.168.8.72
+- Local IP: 192.168.0.0
 - Scanned Range: 192.168.8.0/24
 - Hosts Found: 2
 
 ## 📊 Scan Summary
 
-### 📌 Host 1: 192.168.8.243
+### 📌 Host 1: 192.168.0.0
 - Open Port: 53 (DNS)
 - Possible Device: Router or DNS Server
 
-### 📌 Host 2: 192.168.8.71
+### 📌 Host 2: 192.168.0.0
 - Open Ports:
   - 135 (msrpc)
   - 139 (netbios-ssn)
